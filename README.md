@@ -37,13 +37,3 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 
 ---
 
-## 🗂️ Repository Structure
-
-```text
-├── Easy/
-│   ├── problem-name.ext
-├── Medium/
-│   ├── problem-name.ext
-├── Hard/
-│   ├── problem-name.ext
-└── README.md
