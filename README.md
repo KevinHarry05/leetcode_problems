@@ -47,12 +47,14 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
