@@ -48,6 +48,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/KevinHarry05/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
