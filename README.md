@@ -77,6 +77,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
+| [0504-base-7](https://github.com/KevinHarry05/leetcode_problems/tree/master/0504-base-7) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/KevinHarry05/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/KevinHarry05/leetcode_problems/tree/master/0482-license-key-formatting) |
+| [0504-base-7](https://github.com/KevinHarry05/leetcode_problems/tree/master/0504-base-7) |
 ## String Matching
 |  |
 | ------- |
