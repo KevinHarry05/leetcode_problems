@@ -49,6 +49,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0414-third-maximum-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KevinHarry05/leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +95,12 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/KevinHarry05/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
