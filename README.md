@@ -52,6 +52,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KevinHarry05/leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,11 +80,13 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/KevinHarry05/leetcode_problems/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
