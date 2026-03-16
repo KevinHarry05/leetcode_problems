@@ -51,6 +51,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0485-max-consecutive-ones](https://github.com/KevinHarry05/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KevinHarry05/leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 ## Counting Sort
 |  |
 | ------- |
