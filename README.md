@@ -55,6 +55,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KevinHarry05/leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/KevinHarry05/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -135,6 +136,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KevinHarry05/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/KevinHarry05/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
