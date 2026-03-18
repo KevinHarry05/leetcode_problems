@@ -77,6 +77,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1768-merge-strings-alternately](https://github.com/KevinHarry05/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0482-license-key-formatting](https://github.com/KevinHarry05/leetcode_problems/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/KevinHarry05/leetcode_problems/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KevinHarry05/leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1768-merge-strings-alternately](https://github.com/KevinHarry05/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
