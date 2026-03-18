@@ -56,6 +56,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -131,6 +132,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -138,5 +140,6 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
