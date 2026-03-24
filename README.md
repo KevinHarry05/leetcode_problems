@@ -157,12 +157,19 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KevinHarry05/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KevinHarry05/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KevinHarry05/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
