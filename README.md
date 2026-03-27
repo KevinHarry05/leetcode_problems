@@ -160,6 +160,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/KevinHarry05/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,10 +175,15 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0112-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/KevinHarry05/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/KevinHarry05/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
