@@ -62,6 +62,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [1470-shuffle-the-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KevinHarry05/leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KevinHarry05/leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/KevinHarry05/leetcode_problems/tree/master/1768-merge-strings-alternately) |
+| [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +99,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
