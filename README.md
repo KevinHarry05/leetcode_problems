@@ -117,6 +117,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/KevinHarry05/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/KevinHarry05/leetcode_problems/tree/master/0482-license-key-formatting) |
@@ -143,6 +144,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
