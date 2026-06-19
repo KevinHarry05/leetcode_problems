@@ -48,6 +48,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KevinHarry05/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0414-third-maximum-number) |
@@ -147,6 +148,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -200,6 +202,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
 ## Binary Search Tree
 |  |
 | ------- |
