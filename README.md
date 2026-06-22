@@ -47,6 +47,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0063-unique-paths-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KevinHarry05/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
@@ -71,6 +72,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -225,4 +227,8 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0063-unique-paths-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
