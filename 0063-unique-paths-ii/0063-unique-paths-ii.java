@@ -5,15 +5,16 @@ class Solution {
             if(i>=m || j>=n){
                 return 0;
             }
-            if(i==m-1 && j==n-1){
-                return 1;
-            }
             if(grid[i][j]==1){
                 return 0;
             }
-            // if(dp[i][j]!=null){
-            //     return dp[i][j];
-            // }
+            if(i==m-1 && j==n-1){
+                return 1;
+            }
+            
+            if(dp[i][j]!=null){
+                return dp[i][j];
+            }
             dp[i][j]= solve(i+1,j,grid,dp) + solve(i,j+1,grid,dp);
             return dp[i][j];
         }
