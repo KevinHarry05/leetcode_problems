@@ -44,6 +44,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KevinHarry05/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -148,6 +149,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
@@ -219,4 +221,8 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
