@@ -50,6 +50,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KevinHarry05/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +101,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -126,6 +128,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
+| [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/KevinHarry05/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/KevinHarry05/leetcode_problems/tree/master/0482-license-key-formatting) |
@@ -142,6 +145,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KevinHarry05/leetcode_problems/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 ## Counting Sort
