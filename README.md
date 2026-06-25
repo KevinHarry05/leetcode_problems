@@ -53,6 +53,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KevinHarry05/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/KevinHarry05/leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KevinHarry05/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
@@ -170,6 +171,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/KevinHarry05/leetcode_problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
