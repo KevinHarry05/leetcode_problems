@@ -44,6 +44,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/KevinHarry05/leetcode_problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
@@ -139,6 +140,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KevinHarry05/leetcode_problems/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 ## Counting Sort
@@ -150,6 +152,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/KevinHarry05/leetcode_problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
