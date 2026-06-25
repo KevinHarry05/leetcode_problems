@@ -52,6 +52,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0150-evaluate-reverse-polish-notation](https://github.com/KevinHarry05/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KevinHarry05/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/KevinHarry05/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -206,6 +207,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/KevinHarry05/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -222,6 +224,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0100-same-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/KevinHarry05/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
 ## Binary Search Tree
 |  |
@@ -240,8 +243,10 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/KevinHarry05/leetcode_problems/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/KevinHarry05/leetcode_problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
