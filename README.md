@@ -254,4 +254,8 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/KevinHarry05/leetcode_problems/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
