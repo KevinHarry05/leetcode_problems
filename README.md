@@ -258,4 +258,5 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/KevinHarry05/leetcode_problems/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
