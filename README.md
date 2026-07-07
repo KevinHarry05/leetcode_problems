@@ -262,5 +262,6 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [1075-project-employees-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/KevinHarry05/leetcode_problems/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KevinHarry05/leetcode_problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KevinHarry05/leetcode_problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
