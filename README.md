@@ -260,6 +260,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/KevinHarry05/leetcode_problems/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/KevinHarry05/leetcode_problems/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/KevinHarry05/leetcode_problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/1068-product-sales-analysis-i) |
