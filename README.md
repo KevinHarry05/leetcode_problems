@@ -77,6 +77,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KevinHarry05/leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
+| [2706-buy-two-chocolates](https://github.com/KevinHarry05/leetcode_problems/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
+| [2706-buy-two-chocolates](https://github.com/KevinHarry05/leetcode_problems/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +162,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
+| [2706-buy-two-chocolates](https://github.com/KevinHarry05/leetcode_problems/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
 | ------- |
