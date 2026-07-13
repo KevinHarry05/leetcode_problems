@@ -263,6 +263,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/KevinHarry05/leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/KevinHarry05/leetcode_problems/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/KevinHarry05/leetcode_problems/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/KevinHarry05/leetcode_problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1070-product-sales-analysis-iii) |
