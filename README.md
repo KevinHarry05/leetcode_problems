@@ -62,6 +62,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KevinHarry05/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0518-coin-change-ii) |
@@ -101,6 +102,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0189-rotate-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/KevinHarry05/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
@@ -119,6 +121,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
@@ -164,6 +167,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0055-jump-game](https://github.com/KevinHarry05/leetcode_problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
