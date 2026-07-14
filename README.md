@@ -141,6 +141,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KevinHarry05/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/KevinHarry05/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0257-binary-tree-paths) |
