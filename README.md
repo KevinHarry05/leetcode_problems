@@ -72,6 +72,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0636-exclusive-time-of-functions](https://github.com/KevinHarry05/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
+| [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1470-shuffle-the-array) |
@@ -109,6 +110,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -300,4 +302,9 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KevinHarry05/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
