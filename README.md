@@ -291,6 +291,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0197-rising-temperature](https://github.com/KevinHarry05/leetcode_problems/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/KevinHarry05/leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/KevinHarry05/leetcode_problems/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/KevinHarry05/leetcode_problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/KevinHarry05/leetcode_problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/KevinHarry05/leetcode_problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/KevinHarry05/leetcode_problems/tree/master/0610-triangle-judgement) |
