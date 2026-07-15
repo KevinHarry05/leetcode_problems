@@ -77,6 +77,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/KevinHarry05/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/KevinHarry05/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -321,5 +322,6 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KevinHarry05/leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/KevinHarry05/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
