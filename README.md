@@ -84,6 +84,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KevinHarry05/leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2706-buy-two-chocolates](https://github.com/KevinHarry05/leetcode_problems/tree/master/2706-buy-two-chocolates) |
@@ -324,4 +325,5 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0238-product-of-array-except-self](https://github.com/KevinHarry05/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/KevinHarry05/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
