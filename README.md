@@ -80,6 +80,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/KevinHarry05/leetcode_problems/tree/master/0636-exclusive-time-of-functions) |
+| [0643-maximum-average-subarray-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/KevinHarry05/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
@@ -331,6 +332,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KevinHarry05/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
