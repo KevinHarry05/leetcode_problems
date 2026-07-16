@@ -85,6 +85,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0724-find-pivot-index](https://github.com/KevinHarry05/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -108,6 +109,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0560-subarray-sum-equals-k](https://github.com/KevinHarry05/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KevinHarry05/leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0930-binary-subarrays-with-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 ## Two Pointers
@@ -333,6 +335,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KevinHarry05/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -342,6 +345,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0523-continuous-subarray-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KevinHarry05/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KevinHarry05/leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 ## Design
