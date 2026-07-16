@@ -82,6 +82,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/KevinHarry05/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -211,6 +212,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0494-target-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0518-coin-change-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -340,4 +342,16 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KevinHarry05/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
