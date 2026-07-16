@@ -90,6 +90,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [1470-shuffle-the-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KevinHarry05/leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2706-buy-two-chocolates](https://github.com/KevinHarry05/leetcode_problems/tree/master/2706-buy-two-chocolates) |
@@ -216,6 +217,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0518-coin-change-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/1143-longest-common-subsequence) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
