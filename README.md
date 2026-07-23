@@ -43,6 +43,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KevinHarry05/leetcode_problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
@@ -115,6 +116,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KevinHarry05/leetcode_problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
@@ -188,6 +190,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/KevinHarry05/leetcode_problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
