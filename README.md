@@ -87,6 +87,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/KevinHarry05/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/KevinHarry05/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,6 +133,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/KevinHarry05/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/KevinHarry05/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
@@ -157,6 +159,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/KevinHarry05/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/KevinHarry05/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
@@ -206,6 +209,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0561-array-partition](https://github.com/KevinHarry05/leetcode_problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/KevinHarry05/leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [2706-buy-two-chocolates](https://github.com/KevinHarry05/leetcode_problems/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
