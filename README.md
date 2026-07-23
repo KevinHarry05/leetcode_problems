@@ -44,6 +44,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/KevinHarry05/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KevinHarry05/leetcode_problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
@@ -117,6 +118,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/KevinHarry05/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KevinHarry05/leetcode_problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KevinHarry05/leetcode_problems/tree/master/0042-trapping-rain-water) |
@@ -140,6 +142,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/KevinHarry05/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
