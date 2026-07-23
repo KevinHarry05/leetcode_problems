@@ -65,6 +65,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0200-number-of-islands](https://github.com/KevinHarry05/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/KevinHarry05/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/KevinHarry05/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/KevinHarry05/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -126,6 +127,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0088-merge-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KevinHarry05/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/KevinHarry05/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KevinHarry05/leetcode_problems/tree/master/0455-assign-cookies) |
