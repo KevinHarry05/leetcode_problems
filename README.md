@@ -54,6 +54,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0088-merge-sorted-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KevinHarry05/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KevinHarry05/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -231,6 +232,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/KevinHarry05/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KevinHarry05/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KevinHarry05/leetcode_problems/tree/master/0198-house-robber) |
