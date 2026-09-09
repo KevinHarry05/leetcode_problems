@@ -102,6 +102,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KevinHarry05/leetcode_problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KevinHarry05/leetcode_problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/KevinHarry05/leetcode_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2465-number-of-distinct-averages](https://github.com/KevinHarry05/leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2706-buy-two-chocolates](https://github.com/KevinHarry05/leetcode_problems/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
@@ -219,6 +220,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0605-can-place-flowers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/KevinHarry05/leetcode_problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KevinHarry05/leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/KevinHarry05/leetcode_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2706-buy-two-chocolates](https://github.com/KevinHarry05/leetcode_problems/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
