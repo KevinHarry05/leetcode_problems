@@ -180,6 +180,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0504-base-7](https://github.com/KevinHarry05/leetcode_problems/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KevinHarry05/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3783-mirror-distance-of-an-integer](https://github.com/KevinHarry05/leetcode_problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
