@@ -356,6 +356,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [1148-article-views-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/KevinHarry05/leetcode_problems/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/KevinHarry05/leetcode_problems/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/KevinHarry05/leetcode_problems/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/KevinHarry05/leetcode_problems/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/KevinHarry05/leetcode_problems/tree/master/1280-students-and-examinations) |
