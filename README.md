@@ -134,6 +134,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KevinHarry05/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KevinHarry05/leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KevinHarry05/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/KevinHarry05/leetcode_problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KevinHarry05/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KevinHarry05/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0392-is-subsequence) |
@@ -196,6 +197,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0072-edit-distance](https://github.com/KevinHarry05/leetcode_problems/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/KevinHarry05/leetcode_problems/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/KevinHarry05/leetcode_problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KevinHarry05/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/KevinHarry05/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/KevinHarry05/leetcode_problems/tree/master/0482-license-key-formatting) |
