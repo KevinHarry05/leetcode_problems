@@ -285,6 +285,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0112-path-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/KevinHarry05/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +304,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 | [0112-path-sum](https://github.com/KevinHarry05/leetcode_problems/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/KevinHarry05/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/KevinHarry05/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -315,6 +317,7 @@ The goal is to improve **problem-solving skills**, **coding efficiency**, and **
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/KevinHarry05/leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/KevinHarry05/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
